@@ -1,0 +1,6 @@
+torch
+numpy
+sympy
+matplotlib
+PyQt6
+scikit-learn
